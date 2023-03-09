@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @fernandoolivares8
-- 👀 I’m interested in data analytics and data visualization
-- 🌱 I am currently learning more advanced features of Python and Tableau.
-- 💞️ I’m looking to collaborate on beginner projects 
-- 📫 How to reach me  at ferolivar8@gmail.com
+- 👋 Hi, I'm Fernando!
+
+- 🎓 Management Information Systems graduate from San Diego State University
+
+- 📈 Data visualization enthusiast since childhood 🤓
+
+- 👨‍💻 Experienced in Tableau, Excel, Dataminr, Salesforce, SQL, Python, and R
+
+- 🌎 Fluent in English and Spanish, with a bicultural background 🌍
+
+- 🤝 Collaborative team player with a passion for turning data into actionable insights 💪
+
+- 📈 Let's connect and start visualizing success together! 🚀
+- 📧 ferolivar8@gmail.com
 
 <!---
 fernandoolivares8/fernandoolivares8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
